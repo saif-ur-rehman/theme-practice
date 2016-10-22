@@ -4,3 +4,13 @@
 #superfish-1 {
   float: right;;
 }
+.sf-menu.sf-style-white a, .sf-menu.sf-style-white span.nolink {
+  border: none;
+  text-decoration: none;
+}
+.navbar.container {
+  max-width: 100%;
+}
+.container {
+  width: 100%;
+}
