@@ -9,6 +9,12 @@ base theme = bootstrap
 ;;;;;;;;;;;;;;;;;;;;;
 
 regions[navigation]     = 'Navigation'
+regions[carousel]     = 'Top Image Slider'
+regions[welcome]     = 'Welcome'
+regions[works]     = 'Works'
+regions[services]     = 'Services'
+regions[team]     = 'Team'
+regions[contact] = 'Contact'
 regions[header]         = 'Top Bar'
 regions[highlighted]    = 'Highlighted'
 regions[help]           = 'Help'
