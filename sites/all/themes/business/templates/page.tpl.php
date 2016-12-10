@@ -74,8 +74,8 @@
  */
 ?>
 <header id="navbar" role="banner" class="navbar navbar-default container-fluid full-bg-img">
-  <div class="navbar-header site-inf">
-    <div class="site-name">
+  <div class="navbar-header site-inf container">
+    <div class="site-name col-xs-5">
       <?php if ($logo): ?>
         <a class="logo navbar-btn pull-left" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
           <img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
@@ -85,7 +85,7 @@
         <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><?php print $site_name; ?></a>
       <?php endif; ?>
       </div>
-      <div class="pull-right">
+      <div class="col-xs-7">
         <?php if (!empty($page['top_bar'])): ?>
             <?php print render($page['top_bar']); ?>
         <?php endif; ?>

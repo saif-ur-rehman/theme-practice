@@ -14,3 +14,21 @@
 .container {
   width: 100%;
 }
+.navbar.container, .navbar.container-fluid {
+  margin-top: 0;
+}
+#block-system-main-menu ul {
+  padding: 2% 0;
+  /*float: right;*/
+}
+#block-system-main-menu ul li {
+  float: left;
+  margin-left: 5%;
+}
+.field-name-field-header-inage {
+  display: none;
+}
+#block-system-main-menu ul li a {
+  color: #fff;
+  text-decoration: none;
+}

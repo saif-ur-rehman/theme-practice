@@ -8,6 +8,7 @@ base theme = bootstrap
 ;; Regions
 ;;;;;;;;;;;;;;;;;;;;;
 
+regions[top_bar]         = 'Top Bar'
 regions[navigation]     = 'Navigation'
 regions[carousel]     = 'Top Image Slider'
 regions[welcome]     = 'Welcome'
@@ -15,7 +16,6 @@ regions[works]     = 'Works'
 regions[services]     = 'Services'
 regions[team]     = 'Team'
 regions[contact] = 'Contact'
-regions[header]         = 'Top Bar'
 regions[highlighted]    = 'Highlighted'
 regions[help]           = 'Help'
 regions[content]        = 'Content'
@@ -31,3 +31,4 @@ regions[page_bottom]    = 'Page bottom'
 ;;;;;;;;;;;;;;;;;;;;;
 
 stylesheets[all][] = css/style.css
+scripts[] = js/custom.js
