@@ -8,22 +8,22 @@ base theme = bootstrap
 ;; Regions
 ;;;;;;;;;;;;;;;;;;;;;
 
-regions[top_bar]         = 'Top Bar'
-regions[navigation]     = 'Navigation'
-regions[carousel]     = 'Top Image Slider'
-regions[welcome]     = 'Welcome'
-regions[works]     = 'Works'
-regions[services]     = 'Services'
-regions[team]     = 'Team'
-regions[contact] = 'Contact'
-regions[highlighted]    = 'Highlighted'
-regions[help]           = 'Help'
-regions[content]        = 'Content'
-regions[sidebar_first]  = 'Primary'
-regions[sidebar_second] = 'Secondary'
-regions[footer]         = 'Footer'
-regions[page_top]       = 'Page top'
-regions[page_bottom]    = 'Page bottom'
+regions[top_bar]          = 'Top Bar'
+regions[navigation]       = 'Navigation'
+regions[top_slider]       = 'Top Slider'
+regions[welcome]          = 'Welcome'
+regions[works]            = 'Works'
+regions[services]         = 'Services'
+regions[team]             = 'Team'
+regions[contact]          = 'Contact'
+regions[highlighted]      = 'Highlighted'
+regions[help]             = 'Help'
+regions[content]          = 'Content'
+regions[sidebar_first]    = 'Primary'
+regions[sidebar_second]   = 'Secondary'
+regions[footer]           = 'Footer'
+regions[page_top]         = 'Page top'
+regions[page_bottom]      = 'Page bottom'
 
 
 ;;;;;;;;;;;;;;;;;;;;;

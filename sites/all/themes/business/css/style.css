@@ -32,3 +32,19 @@
   color: #fff;
   text-decoration: none;
 }
+.top-slider {
+  text-align: center;
+  padding: 10% 0;
+}
+.views-slideshow-cycle-main-frame-row {
+  text-align: center;
+  width: 100% !important;
+}
+.top-slide-head {
+  font-size: 40px;
+  padding-bottom: 5%;
+  font-family: pacifico;
+}
+.top-slide-head .fa-heart {
+  color: #ff4530;
+}
