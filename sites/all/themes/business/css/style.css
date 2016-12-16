@@ -52,3 +52,14 @@
 #welcome {
   text-align: center;
 }
+#works {
+  margin-top: 5%;
+}
+.bef-select-as-links .form-type-bef-link {
+  font-size: 13px;
+  width: 10%;
+  float: left;
+}
+#edit-field-project-category-value-wrapper {
+  width: 100%;
+}
