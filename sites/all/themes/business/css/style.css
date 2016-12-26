@@ -51,6 +51,7 @@
 /*Welcome Section css */
 #welcome {
   text-align: center;
+  padding-top: 5%;
 }
 #works {
   margin-top: 5%;
@@ -62,4 +63,7 @@
 }
 #edit-field-project-category-value-wrapper {
   width: 100%;
+}
+#back-top #link {
+  display: none;
 }
