@@ -54,7 +54,7 @@
   padding-top: 5%;
 }
 #works, #service {
-  padding-top: 5%;
+  padding-top: 7%;
 }
 .bef-select-as-links .form-type-bef-link {
   font-size: 13px;
@@ -76,4 +76,7 @@ a:hover {
 .navbar-fixed-top{
   background-color: #000;
   z-index: 10;
+}
+.front .page-header {
+  display: none;
 }
