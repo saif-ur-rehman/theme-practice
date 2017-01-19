@@ -26,10 +26,46 @@ regions[page_top]         = 'Page top'
 regions[page_bottom]      = 'Page bottom'
 
 
+
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Stylesheets
 ;;;;;;;;;;;;;;;;;;;;;
 
-stylesheets[all][] = css/style.css
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/animate.min.css
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/setting.css
+stylesheets[all][] = css/hover.css
+stylesheets[all][] = css/magic.min.css
+stylesheets[all][] = css/magnific-popup.css
+stylesheets[all][] = css/magnific-popup-zoom-gallery.css
+stylesheets[all][] = css/owl.carousel.css
+stylesheets[all][] = css/owl.theme.css
+stylesheets[all][] = css/owl.transitions.css
+stylesheets[all][] = css/pasific.css
+stylesheets[all][] = css/font-awesome.css
+stylesheets[all][] = css/et-line-font.css
 stylesheets[all][] = css/bootstrap.css
+stylesheets[all][] = css/style.css
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Scripts
+;;;;;;;;;;;;;;;;;;;;;
+
+scripts[] = js/jquery.min.js
+scripts[] = js/bootstrap.min.js
+scripts[] = js/jquery.magnific-popup.min.js
+scripts[] = js/magnific-popup-zoom-gallery.js
+scripts[] = js/bootstrap-progressbar.js
+scripts[] = js/bootstrap-progressbar-main.js
+scripts[] = js/jquery.simple-text-rotator.min.js
+scripts[] = js/jquery.appear.js
+scripts[] = js/isotope.pkgd.min.js
+scripts[] = js/parallax.min.js
+scripts[] = js/jquery.countTo.js
+scripts[] = js/owl.carousel.min.js
+scripts[] = js/jquery.sticky.js
+scripts[] = js/imagesloaded.pkgd.min.js
+scripts[] = js/main.js
 scripts[] = js/custom.js
