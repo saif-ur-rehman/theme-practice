@@ -67,4 +67,9 @@
 #back-top #link {
   display: none;
 }
-.view-welcome-blocks-view
+.field-collection-container {
+  border:none;
+}
+a:hover {
+  text-decoration: none;
+}
