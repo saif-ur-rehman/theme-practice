@@ -73,8 +73,8 @@
  * @ingroup templates
  */
 ?>
-<header id="navbar" role="banner" class="navbar navbar-default container-fluid full-bg-img">
-  <div class="navbar-header site-inf container">
+<header id="navbar" role="banner" class="navbar navbar-default full-bg-img">
+  <div class="navbar-fixed-top site-inf container">
     <div class="site-name col-xs-5">
       <?php if ($logo): ?>
         <a class="logo navbar-btn pull-left" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
